@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Raushan</h1>
 <h3 align="center">🚀 Data Analyst | Full-Stack Developer | Cloud Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/rishabh1824">
-    <img src="https://komarev.com/ghpvc/?username=rishabh1824&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -39,23 +33,6 @@
 ## 🌐 Portfolio
 
 👉 **Live:** https://rishabh1824.github.io/Portfolio/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh1824&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1824&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh1824&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
